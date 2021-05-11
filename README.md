@@ -31,17 +31,17 @@ Please review crypto_sentiment file for details.
 #### Word Clouds
 
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
+![btc-word-cloud.png](Images/btc-word-cloud-1.png)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
+![eth-word-cloud.png](Images/eth-word-cloud-1.png)
 
 ---
 
 ### 3 - Named Entity Recognition
 
 
-![btc-ner.png](Images/btc-ner.png)
+![btc-ner.png](Images/btc-ner-1.png)
 
-![eth-ner.png](Images/eth-ner.png)
+![eth-ner.png](Images/eth-ner-1.png)
 
 ---
